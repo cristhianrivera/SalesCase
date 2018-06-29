@@ -1,0 +1,5 @@
+Dear Candidate,
+
+We look forward to meeting you soon. To learn how you approach an analytical task please have a look at the attached file sales.zip. It contains a purchase history of customers for over a year on csv format.  The task is to predict  the expected sales per customer in December 2017 based on data before this month. Preferable use R or Python. Please present your code and findings to us when we meet.
+
+Good Luck!
